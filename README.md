@@ -5,5 +5,7 @@ This project create github search app, which searches user from github and provi
 ## Run the project locally
 
 git clone https://github.com/nehakumari2307/GitHub-Search.git
+
 npm install
+
 npm start
