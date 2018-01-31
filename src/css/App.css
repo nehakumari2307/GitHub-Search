@@ -1,0 +1,63 @@
+.App {
+  text-align: center;
+  overflow: auto;
+  clear: both;
+  padding: 20px;
+}
+
+#root #root-header {
+  font-size: 20px;
+  font-weight: bold;
+  padding: 20px;
+  text-decoration: underline;
+  color: green;
+}
+
+#root .Repo {
+  width: 30%;
+  float: left;
+}
+
+#root .main-container {
+  padding: 20px;
+}
+
+#root .user-list-container {
+  padding: 20px;
+  clear: both;
+  overflow: auto;
+  border: 1px solid gray;
+  margin: 10px;
+}
+
+.loading {
+  font-size: 20px;
+  padding: 10px;
+  font-weight: bold;
+}
+
+#root .user-profile {
+    padding: 20px;
+    background-color: #BABABA; 
+    clear: both;
+    overflow: auto;
+}
+
+#root .user-profile div{
+  font-size: 14px;
+  font-weight: bold;
+}
+
+#root .user-profile img {
+  float: left;
+}
+
+#root .user-profile .user-details {
+  float: left;
+  padding-left: 20px;
+  text-align: left;
+}
+
+#root .user-profile .user-details div {
+  padding: 10px;
+}
